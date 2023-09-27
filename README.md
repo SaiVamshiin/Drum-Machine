@@ -1,4 +1,5 @@
 # Drum-Machine
+A drum Machine with tabs are added to it, and acan be played as an instrument.
 
 here is the code preview 
 
